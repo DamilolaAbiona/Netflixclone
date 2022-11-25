@@ -71,6 +71,8 @@ header{
     width: 90%;
     margin-right: 0rem;
     padding: .5rem 2rem;
+    color: white;
+    text-decoration: none;
     border: 1px solid red;
     background-color: #f40612;
     border-radius: 7px;
@@ -132,19 +134,19 @@ form h3{
     border: none;
     outline: none;
     /* width: 70%; */
-    padding:2rem 10rem;
+    padding:1.2rem 10rem;
     color: grey;
     font-size: 1rem;
     text-align: left;
    
 }
 .get-started{
-padding:1.6rem 3rem;
+padding:1rem 3rem;
 border: none;
     outline: none;
     background-color: #f40612;
     color: white;
-    font-size: 1.8rem;
+    font-size: 1.3rem;
     /* font-weight: 400; */
    
 }
@@ -273,7 +275,7 @@ transition: all .3s;
     border-top: 8px solid #222;
     padding: 7rem 5rem;
     display: flex;
-    background-color: black; color:white;">
+    background-color: black; color:white;>
 }
 .feature:nth-of-type(2), .feature:nth-of-type(4) {
     flex-direction: row-reverse;
